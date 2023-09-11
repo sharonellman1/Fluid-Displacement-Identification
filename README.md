@@ -14,5 +14,5 @@ It requires a pore network extraction in statoil format. The maximum inscribed s
 - curvature and contact angle over the entire field of view in the final timestep
 
 ## References
-Mascini, A., Cnudde, V. and Bultreys, T., 2020. Event-based contact angle measurements inside porous media using time-resolved micro-computed tomography. Journal of colloid and interface science, 572, pp.354-363.
-Ellman, S., Mascini, A., Bultreys, T., submitted. Validating mechanistic models of fluid displacement during imbibition. Advances in Water Resources. 
+- Mascini, A., Cnudde, V. and Bultreys, T., 2020. Event-based contact angle measurements inside porous media using time-resolved micro-computed tomography. Journal of colloid and interface science, 572, pp.354-363.
+- Ellman, S., Mascini, A., Bultreys, T., submitted. Validating mechanistic models of fluid displacement during imbibition. Advances in Water Resources. 
