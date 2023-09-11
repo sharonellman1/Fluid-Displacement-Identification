@@ -4,9 +4,9 @@ This is fluid displacement identification code adapted from the code used in Mas
 
 It requires a pore network extraction in statoil format. The maximum inscribed spheres of the pore network extraction are then overlayed on the segmented fluid distribution images to determine fluid occupancy, contact angle and curvature per pore/throat. As input it requires:
 - link and node files in statoil format
-- majority and mean (oil = 1, brine+rock = 0) in pore maximum inscribed spheres
-- majority and mean in throat maximum inscribed spheres
-- majority and mean on throat surfaces
+- majority and mean (oil = 1, brine+rock = 0) in pore maximum inscribed spheres per timestep
+- majority and mean in throat maximum inscribed spheres per timestep
+- majority and mean on throat surfaces per timestep
 - the volumes of each pore maximum inscribed sphere
 - Pc over the entire field of view per timestep
 - average curvature over the entire field of view per timestep
