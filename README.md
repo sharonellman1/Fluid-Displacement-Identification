@@ -16,5 +16,5 @@ It requires a pore network extraction in statoil format. The maximum inscribed s
 The file "networkComponents.m" used in "eventClusteringAnalysis.m" can be downloaded from: https://www.mathworks.com/matlabcentral/fileexchange/42040-find-network-components?s_tid=srchtitle
 
 ## References
-- Mascini, A., Cnudde, V. and Bultreys, T., 2020. Event-based contact angle measurements inside porous media using time-resolved micro-computed tomography. Journal of colloid and interface science, 572, pp.354-363.
-- Ellman, S., Mascini, A., Bultreys, T., submitted. Validating mechanistic models of fluid displacement during imbibition. Advances in Water Resources. 
+- Mascini, A., Cnudde, V. and Bultreys, T., 2020. Event-based contact angle measurements inside porous media using time-resolved micro-computed tomography. Journal of colloid and interface science, 572, pp.354-363. https://doi.org/10.1016/j.jcis.2020.03.099
+- Ellman, S., Mascini, A., Bultreys, T., 2023. Validating mechanistic models of fluid displacement during imbibition. Advances in Water Resources. https://doi.org/10.1016/j.advwatres.2023.104590
